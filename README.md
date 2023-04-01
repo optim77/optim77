@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @optim77
 - 👀 I’m interested in computer science, philosophy, psychology, books
-- 🌱 Development in the areas of Java (mainly testing) and Python (Data Science) 
+- 🌱 Development in the areas of Java (mainly testing) and Python
 
 <!---
 optim77/optim77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
